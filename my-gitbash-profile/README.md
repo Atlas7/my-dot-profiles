@@ -12,6 +12,8 @@ These files contains features like:
 - GitBash auto-completion (using the tab key)
 - Use the `subl` command to call the Sublime Text Editor.
 
+Platform: Windows 8.1
+
 Change the files as needed.
 
 I obtained these original files as a by-product of taking the [Udacity How to use Git and GitHub course](https://www.udacity.com/course/how-to-use-git-and-github--ud775).
